@@ -4,4 +4,4 @@
    비워두면 아무 데도 보내지 않습니다.
    설정 방법은 수집설정.md 를 보세요.
    ──────────────────────────────────────────────── */
-window.ELFIX_ENDPOINT = '';
+window.ELFIX_ENDPOINT = 'https://script.google.com/macros/s/AKfycbymFBFAQy4Gx2yXG0LVW_IG_7Yb6W6OuddoMKfs0I6l7lrt3pKlO8UIW9xXk6qDo-IrXw/exec';
