@@ -1,6 +1,6 @@
 /* 신호가 약한 기계실·승강로에서도 열리도록 캐시합니다.
    내용을 고친 뒤에는 아래 VER 숫자를 올려야 사용자에게 반영됩니다. */
-const VER = 'v6';
+const VER = 'v7';
 const CACHE = 'elfix-' + VER;
 const FILES = ['./','./index.html','./manifest.webmanifest',
                './icon.svg','./icon-192.png','./icon-512.png'];
